@@ -34,6 +34,6 @@ Fully Responsive\
 ## Contact
 
  <h3 align="center">
-  <code> Prince jimmy/code>
+  <code> Prince jimmy </code>
 </h3>
 # Jimmyfolio
