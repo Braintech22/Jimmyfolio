@@ -34,6 +34,6 @@ Fully Responsive\
 ## Contact
 
  <h3 align="center">
-  <code> Khaled elgamely</code>
+  <code> Prince Jimmy</code>
 </h3>
 # Jimmyfolio
